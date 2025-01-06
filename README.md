@@ -39,9 +39,9 @@ LLM-Text-To-SQL leverages a Large Language Model (LLM) to convert natural langua
    touch .env
     ```
   - Add your environment variables (e.g., API keys) to the .env file:
-   ```bash
-   GOOGLE_API_KEY=your_google_api_key
-   ```
+      ```bash
+      GOOGLE_API_KEY=your_google_api_key
+      ```
 
 ### Usage
 1. Run the Streamlit app:
