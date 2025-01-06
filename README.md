@@ -13,7 +13,7 @@ LLM-Text-To-SQL leverages a Large Language Model (LLM) to convert natural langua
 
 ## Prerequisites
 
-- Python 3.7 or higher
+- Python 3.9 or higher
 - `pip` for package management
 - SQLite for the database
 
@@ -21,7 +21,7 @@ LLM-Text-To-SQL leverages a Large Language Model (LLM) to convert natural langua
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/LLM-Text-To-SQL.git
+   git clone https://github.com/Tanush-banchhod/LLM-Text-To-SQL.git
    cd LLM-Text-To-SQL
     ```
 2. **Create and activate a virtual environment:**
